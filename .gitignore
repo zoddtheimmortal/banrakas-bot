@@ -1,0 +1,4 @@
+venv
+.rasa
+actions/__pycache__
+.DS_Store
