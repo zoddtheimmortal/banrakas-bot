@@ -1,2 +1,2 @@
 # banrakas-bot
-Open Source Chatbot for Quark Hackathon
+Open Source Chatbot for Quark Hackathon.
